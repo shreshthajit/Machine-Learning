@@ -1,6 +1,17 @@
 # Machine-Learning
 
+## [Anaconda installation](https://youtu.be/DY0DB_NwEu0)
+
+after successful installation we can write the following command:
+```
+anaconda navigator
+```
+then we will see more options and from there we can run any tools
+
+Here I have installed Jupiter by just clicking the launch button.
+
 ## useful link for dataset
+
 
 [Datasets](https://www.superdatascience.com/pages/machine-learning)
  
