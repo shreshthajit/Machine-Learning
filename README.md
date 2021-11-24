@@ -22,3 +22,5 @@ Day1:
 ![Screenshot from 2020-11-06 16-52-24](https://user-images.githubusercontent.com/43321488/138338828-333665f5-f83b-445c-9562-944f00ac9b6e.png)
 
 # ![machine_learning_algo_img](https://user-images.githubusercontent.com/43321488/142839958-85320ddc-d16e-430f-9a35-16b710a3eb92.jpeg)
+
+# ![Algho img](https://user-images.githubusercontent.com/43321488/143299547-b79e1fa0-3e6e-4af9-8b59-a49debc820ef.jpeg)
