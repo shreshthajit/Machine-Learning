@@ -24,3 +24,5 @@ Day1:
 # ![machine_learning_algo_img](https://user-images.githubusercontent.com/43321488/142839958-85320ddc-d16e-430f-9a35-16b710a3eb92.jpeg)
 
 # ![Algho img](https://user-images.githubusercontent.com/43321488/143299547-b79e1fa0-3e6e-4af9-8b59-a49debc820ef.jpeg)
+
+# ![7 steps for machine learning](https://user-images.githubusercontent.com/43321488/143678476-90a7952f-5abd-4cc2-9e7a-cb12cd709973.jpeg)
