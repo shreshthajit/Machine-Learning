@@ -11,3 +11,6 @@ so we can run the following command:
 python -m ipykernel install
 
 ```
+
+ ![Difference between keras and tensorflow](https://user-images.githubusercontent.com/43321488/144177777-c3f2aa8a-95a7-487f-b89b-9086cf337bb6.jpeg)
+
