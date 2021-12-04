@@ -1,5 +1,6 @@
 # Machine-Learning
 
+## [Go through the basic ideas](https://www.theinsaneapp.com/2021/11/machine-learning-algorithms-for-beginners.html?fbclid=IwAR3jphKDu3OBmdyu6pOtO3eJWvIprUcSHB-V4F8jXSVdoiEYi4JxYSsTYcw)
 ## [pandas](https://media-exp1.licdn.com/dms/document/C4E1FAQFnNAia33tNGQ/feedshare-document-pdf-analyzed/0/1637397014612?e=1638122400&v=beta&t=hCFVSTvvrNmx1FDBL4Oj34kxe1vuQwPppsy9By6RT88)
 ## [Anaconda installation](https://youtu.be/DY0DB_NwEu0)
 
