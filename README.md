@@ -1,5 +1,5 @@
 # Machine-Learning
-
+### [Step by step process](https://github.com/codebasics/roadmaps/blob/master/machine-learning-engineer-roadmap-2021/ml_engineer_roadmap_2021.md?fbclid=IwAR2HJs52Aa0NuO1xAcjBu6_8g7DiI_UQmSk8jfoJ0Qncpv23KowerTDXKm8)
 ## [A goog cheet sheet](https://media-exp1.licdn.com/dms/document/C561FAQESvk4QINbLwg/feedshare-document-pdf-analyzed/0/1639467973474?e=1639623600&v=beta&t=C-gnRWRTmfiLFXIoH1w-UUTvk0D_bGu9UOWyQtJlDKM)
 ## [Go through the basic ideas](https://www.theinsaneapp.com/2021/11/machine-learning-algorithms-for-beginners.html?fbclid=IwAR3jphKDu3OBmdyu6pOtO3eJWvIprUcSHB-V4F8jXSVdoiEYi4JxYSsTYcw)
 ## [pandas](https://media-exp1.licdn.com/dms/document/C4E1FAQFnNAia33tNGQ/feedshare-document-pdf-analyzed/0/1637397014612?e=1638122400&v=beta&t=hCFVSTvvrNmx1FDBL4Oj34kxe1vuQwPppsy9By6RT88)
