@@ -1,6 +1,17 @@
 
 
 ### Gradient Descent
+#### Notes
+```
+1.We will be given two array x and y
+2.We can draw lines with these variables
+3.We need to use y=mx+c and find m and c
+4.We need to minimize m and c by using gradient descent alghorithm
+5.We need to minimize the cost function which is MSE.
+6.a is learning rate
+7.if we choose a too small then we can predice the minima
+8.if we choose a too large then there is a possiblity we are skipping the minima
+```
 
 ![Screenshot from 2022-08-17 18-11-56](https://user-images.githubusercontent.com/43321488/185146090-727cb01c-4e04-4d6a-b0bd-a6977fb33488.png)
 ![Screenshot from 2022-08-17 18-12-02](https://user-images.githubusercontent.com/43321488/185146105-40471263-e5d7-4413-a066-27499edd29f9.png)
