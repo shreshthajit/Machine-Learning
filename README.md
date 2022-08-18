@@ -1,4 +1,10 @@
 # Machine-Learning
+
+### [Important alghorithms](https://github.com/codebasics/py/tree/master/ML)
+
+
+
+
 ### [Conditional probability](https://www.youtube.com/watch?v=LYbVsIDySLE&list=PLjmhyJOf0CFevcsXcdK1nHd7kzib-hnUM&index=3)
 ### [A good youtube video](https://www.youtube.com/playlist?list=PLKYEe2WisBTECZ8mZCfFxzrBBuGrS1Gfu)
 ### [Step by step process](https://github.com/codebasics/roadmaps/blob/master/machine-learning-engineer-roadmap-2021/ml_engineer_roadmap_2021.md?fbclid=IwAR2HJs52Aa0NuO1xAcjBu6_8g7DiI_UQmSk8jfoJ0Qncpv23KowerTDXKm8)
