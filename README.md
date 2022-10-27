@@ -1,7 +1,7 @@
 # Machine-Learning
 
 ### [Important alghorithms](https://github.com/codebasics/py/tree/master/ML)
-
+### [BLOG](http://colah.github.io/)
 
 
 
