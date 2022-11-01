@@ -1,5 +1,8 @@
 # Machine-Learning
 
+## [Linear Regression](https://medium.com/deep-math-machine-learning-ai/chapter-1-2-gradient-descent-with-math-d4f2871af402)
+
+
 ### [Important alghorithms](https://github.com/codebasics/py/tree/master/ML)
 ### [BLOG](http://colah.github.io/)
 
