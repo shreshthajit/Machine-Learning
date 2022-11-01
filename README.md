@@ -2,6 +2,7 @@
 
 ## [Linear Regression](https://medium.com/deep-math-machine-learning-ai/chapter-1-2-gradient-descent-with-math-d4f2871af402)
 ## [Normal Equation](https://www.geeksforgeeks.org/ml-normal-equation-in-linear-regression/?ref=lbp)
+## [Precision and Recall and accuracy](https://developers.google.com/machine-learning/crash-course/classification/accuracy)
 
 ### [Important alghorithms](https://github.com/codebasics/py/tree/master/ML)
 ### [BLOG](http://colah.github.io/)
