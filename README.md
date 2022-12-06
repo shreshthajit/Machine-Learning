@@ -1,5 +1,7 @@
 # Machine-Learning
 
+## [Rules of thumb](https://towardsdatascience.com/17-rules-of-thumb-for-building-a-neural-network-93356f9930af)
+
 ## [Gradient descent for polynomial regession](https://towardsdatascience.com/polynomial-regression-gradient-descent-from-scratch-279db2936fe9)
 
 ## [Linear Regression](https://medium.com/deep-math-machine-learning-ai/chapter-1-2-gradient-descent-with-math-d4f2871af402)
