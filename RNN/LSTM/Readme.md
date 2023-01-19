@@ -1,3 +1,11 @@
+  ### How LSTM works:
+  ```
+  1. It takes some specific words and save it for a long time.
+  2. Whenever it finds a new words that is more significant than the previous than it stores it into memory and forget the previous words
+  3. Based on the long term memory it predicts the last term of a sentence
+  4. To predict the correct words it needs to train with a lot of data
+  ```
+
 ## [Understanding LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 
