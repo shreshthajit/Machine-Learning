@@ -1,5 +1,7 @@
 # Machine-Learning
 
+## [আলফাটেন্সরের গণিত](https://docs.google.com/document/d/1ffQuMRjn9819etg2M8Z4KewC9XJzbng2isp0WZLuMiM/edit?fbclid=IwAR3I9TIi1fNS0ChzwcJfnohfF_jX-FoC7PDiJ-XeTlg5iKTn9I02wEotwhA)
+
 ## [Rules of thumb](https://towardsdatascience.com/17-rules-of-thumb-for-building-a-neural-network-93356f9930af)
 
 ## [Gradient descent for polynomial regession](https://towardsdatascience.com/polynomial-regression-gradient-descent-from-scratch-279db2936fe9)
